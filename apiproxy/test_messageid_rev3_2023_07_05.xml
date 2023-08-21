@@ -6,7 +6,6 @@
     <BasePaths>/rajesh_messageid</BasePaths>
     <Policies>
         <Policy>AM-Response</Policy>
-        <Policy>FC-JWT-Token</Policy>
     </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
